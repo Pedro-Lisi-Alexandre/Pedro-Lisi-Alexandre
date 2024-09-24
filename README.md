@@ -31,7 +31,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)       
 
 <!-- GithubStats -->
-![VariableBee GitHub stats]![Pedro-Lisi-Alexandre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Lisi-Alexandre&theme=cobalt&hide_border=true)]
+![VariableBee GitHub stats]![Pedro-Lisi-Alexandre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Lisi-Alexandre&theme=vision-friendly-dark&hide_border=true)]
 
 <!-- Portfolio -->
 ## Portfolio:
