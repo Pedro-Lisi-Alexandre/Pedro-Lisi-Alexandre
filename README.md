@@ -31,7 +31,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)       
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github.com/Pedro-Lisi-Alexandre)
+![VariableBee GitHub stats](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)](https://github.com/Pedro-Lisi-Alexandre)
 
 <!-- Portfolio -->
 ## Portfolio:
